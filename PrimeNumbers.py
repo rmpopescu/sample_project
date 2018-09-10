@@ -1,4 +1,4 @@
-import numpy as np
+#!/usr/bin/env python
 
 num = 2 #first prime number to check
 prime = 1 #number of prime numbers calculated
